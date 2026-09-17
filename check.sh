@@ -14,3 +14,6 @@ echo ""
 
 echo "--- Memory ---"
 free -h
+
+echo "--- Top Processes ---"
+ps aux --sort=-%mem | head -6
