@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "=== System Check ==="
+echo "=== System Status ==="
 date
 echo ""
 
