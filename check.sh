@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "=== System Status ==="
+echo "=== Server Health Report ==="
 date
 echo ""
 
